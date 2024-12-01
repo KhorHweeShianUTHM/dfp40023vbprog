@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\prjLab21_Khor\bin\Debug\prjLab21_Khor.exe.config
+C:\Users\User\source\repos\prjLab21_Khor\bin\Debug\prjLab21_Khor.exe
+C:\Users\User\source\repos\prjLab21_Khor\bin\Debug\prjLab21_Khor.pdb
+C:\Users\User\source\repos\prjLab21_Khor\bin\Debug\prjLab21_Khor.xml
+C:\Users\User\source\repos\prjLab21_Khor\obj\Debug\prjLab21_Khor.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\prjLab21_Khor\obj\Debug\prjLab21_Khor.Form1.resources
+C:\Users\User\source\repos\prjLab21_Khor\obj\Debug\prjLab21_Khor.Resources.resources
+C:\Users\User\source\repos\prjLab21_Khor\obj\Debug\prjLab21_Khor.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\prjLab21_Khor\obj\Debug\prjLab21_Khor.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prjLab21_Khor\obj\Debug\prjLab21_Khor.exe
+C:\Users\User\source\repos\prjLab21_Khor\obj\Debug\prjLab21_Khor.xml
+C:\Users\User\source\repos\prjLab21_Khor\obj\Debug\prjLab21_Khor.pdb
+C:\Users\User\source\repos\prjLab21_Khor\obj\Debug\prjLab21_Khor.Form2.resources

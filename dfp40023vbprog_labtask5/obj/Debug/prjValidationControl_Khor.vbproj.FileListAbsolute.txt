@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\prjValidationControl_Khor\bin\Debug\prjValidationControl_Khor.exe.config
+C:\Users\User\source\repos\prjValidationControl_Khor\bin\Debug\prjValidationControl_Khor.exe
+C:\Users\User\source\repos\prjValidationControl_Khor\bin\Debug\prjValidationControl_Khor.pdb
+C:\Users\User\source\repos\prjValidationControl_Khor\bin\Debug\prjValidationControl_Khor.xml
+C:\Users\User\source\repos\prjValidationControl_Khor\obj\Debug\prjValidationControl_Khor.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\prjValidationControl_Khor\obj\Debug\prjValidationControl_Khor.frmStudentValidationData.resources
+C:\Users\User\source\repos\prjValidationControl_Khor\obj\Debug\prjValidationControl_Khor.Resources.resources
+C:\Users\User\source\repos\prjValidationControl_Khor\obj\Debug\prjValidationControl_Khor.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\prjValidationControl_Khor\obj\Debug\prjValidationControl_Khor.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prjValidationControl_Khor\obj\Debug\prjValidationControl_Khor.exe
+C:\Users\User\source\repos\prjValidationControl_Khor\obj\Debug\prjValidationControl_Khor.xml
+C:\Users\User\source\repos\prjValidationControl_Khor\obj\Debug\prjValidationControl_Khor.pdb

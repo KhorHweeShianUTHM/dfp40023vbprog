@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Khor_SimpleProject\Khor_SimpleProject\bin\Debug\Khor_SimpleProject.exe.config
+C:\Users\User\source\repos\Khor_SimpleProject\Khor_SimpleProject\bin\Debug\Khor_SimpleProject.exe
+C:\Users\User\source\repos\Khor_SimpleProject\Khor_SimpleProject\bin\Debug\Khor_SimpleProject.pdb
+C:\Users\User\source\repos\Khor_SimpleProject\Khor_SimpleProject\obj\Debug\Khor_SimpleProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Khor_SimpleProject\Khor_SimpleProject\obj\Debug\Khor_SimpleProject.Form1.resources
+C:\Users\User\source\repos\Khor_SimpleProject\Khor_SimpleProject\obj\Debug\Khor_SimpleProject.Properties.Resources.resources
+C:\Users\User\source\repos\Khor_SimpleProject\Khor_SimpleProject\obj\Debug\Khor_SimpleProject.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Khor_SimpleProject\Khor_SimpleProject\obj\Debug\Khor_SimpleProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Khor_SimpleProject\Khor_SimpleProject\obj\Debug\Khor_SimpleProject.exe
+C:\Users\User\source\repos\Khor_SimpleProject\Khor_SimpleProject\obj\Debug\Khor_SimpleProject.pdb

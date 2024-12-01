@@ -1,0 +1,111 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="picLogo.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        A5G+AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="lblIntro.Text" xml:space="preserve">
+    <value>The heart and soul of Lavender – our bakery uses traditional techniques with modern
+technology, imported Japanese flour and natural yeast starters for all European bread 
+selections and Asian bun varieties.
+
+</value>
+  </data>
+</root>

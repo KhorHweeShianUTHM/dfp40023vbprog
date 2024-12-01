@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Khor_DDT5D_Lab3\bin\Debug\Khor_DDT5D_Lab3.exe.config
+C:\Users\User\source\repos\Khor_DDT5D_Lab3\bin\Debug\Khor_DDT5D_Lab3.exe
+C:\Users\User\source\repos\Khor_DDT5D_Lab3\bin\Debug\Khor_DDT5D_Lab3.pdb
+C:\Users\User\source\repos\Khor_DDT5D_Lab3\bin\Debug\Khor_DDT5D_Lab3.xml
+C:\Users\User\source\repos\Khor_DDT5D_Lab3\obj\Debug\Khor_DDT5D_Lab3.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\Khor_DDT5D_Lab3\obj\Debug\Khor_DDT5D_Lab3.Form1.resources
+C:\Users\User\source\repos\Khor_DDT5D_Lab3\obj\Debug\Khor_DDT5D_Lab3.Resources.resources
+C:\Users\User\source\repos\Khor_DDT5D_Lab3\obj\Debug\Khor_DDT5D_Lab3.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Khor_DDT5D_Lab3\obj\Debug\Khor_DDT5D_Lab3.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Khor_DDT5D_Lab3\obj\Debug\Khor_DDT5D_Lab3.exe
+C:\Users\User\source\repos\Khor_DDT5D_Lab3\obj\Debug\Khor_DDT5D_Lab3.xml
+C:\Users\User\source\repos\Khor_DDT5D_Lab3\obj\Debug\Khor_DDT5D_Lab3.pdb

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\prjActivity19_Khor\bin\Debug\prjActivity19_Khor.exe.config
+C:\Users\User\source\repos\prjActivity19_Khor\bin\Debug\prjActivity19_Khor.exe
+C:\Users\User\source\repos\prjActivity19_Khor\bin\Debug\prjActivity19_Khor.pdb
+C:\Users\User\source\repos\prjActivity19_Khor\bin\Debug\prjActivity19_Khor.xml
+C:\Users\User\source\repos\prjActivity19_Khor\obj\Debug\prjActivity19_Khor.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\prjActivity19_Khor\obj\Debug\prjActivity19_Khor.Form1.resources
+C:\Users\User\source\repos\prjActivity19_Khor\obj\Debug\prjActivity19_Khor.Resources.resources
+C:\Users\User\source\repos\prjActivity19_Khor\obj\Debug\prjActivity19_Khor.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\prjActivity19_Khor\obj\Debug\prjActivity19_Khor.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prjActivity19_Khor\obj\Debug\prjActivity19_Khor.exe
+C:\Users\User\source\repos\prjActivity19_Khor\obj\Debug\prjActivity19_Khor.xml
+C:\Users\User\source\repos\prjActivity19_Khor\obj\Debug\prjActivity19_Khor.pdb

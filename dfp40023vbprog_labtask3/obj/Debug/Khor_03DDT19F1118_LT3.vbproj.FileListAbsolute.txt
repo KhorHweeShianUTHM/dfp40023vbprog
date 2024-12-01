@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Khor_03DDT19F1118_LT3\bin\Debug\Khor_03DDT19F1118_LT3.exe.config
+C:\Users\User\source\repos\Khor_03DDT19F1118_LT3\bin\Debug\Khor_03DDT19F1118_LT3.exe
+C:\Users\User\source\repos\Khor_03DDT19F1118_LT3\bin\Debug\Khor_03DDT19F1118_LT3.pdb
+C:\Users\User\source\repos\Khor_03DDT19F1118_LT3\bin\Debug\Khor_03DDT19F1118_LT3.xml
+C:\Users\User\source\repos\Khor_03DDT19F1118_LT3\obj\Debug\Khor_03DDT19F1118_LT3.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\Khor_03DDT19F1118_LT3\obj\Debug\Khor_03DDT19F1118_LT3.Form1.resources
+C:\Users\User\source\repos\Khor_03DDT19F1118_LT3\obj\Debug\Khor_03DDT19F1118_LT3.Form2.resources
+C:\Users\User\source\repos\Khor_03DDT19F1118_LT3\obj\Debug\Khor_03DDT19F1118_LT3.Resources.resources
+C:\Users\User\source\repos\Khor_03DDT19F1118_LT3\obj\Debug\Khor_03DDT19F1118_LT3.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Khor_03DDT19F1118_LT3\obj\Debug\Khor_03DDT19F1118_LT3.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Khor_03DDT19F1118_LT3\obj\Debug\Khor_03DDT19F1118_LT3.exe
+C:\Users\User\source\repos\Khor_03DDT19F1118_LT3\obj\Debug\Khor_03DDT19F1118_LT3.xml
+C:\Users\User\source\repos\Khor_03DDT19F1118_LT3\obj\Debug\Khor_03DDT19F1118_LT3.pdb

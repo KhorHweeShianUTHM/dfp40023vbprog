@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Khor_DDT5D_Lab14", "Khor_DDT5D_Lab14.vbproj", "{0A99DF7D-B0AA-4FA1-95C9-C17A75CFB691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A99DF7D-B0AA-4FA1-95C9-C17A75CFB691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A99DF7D-B0AA-4FA1-95C9-C17A75CFB691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A99DF7D-B0AA-4FA1-95C9-C17A75CFB691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A99DF7D-B0AA-4FA1-95C9-C17A75CFB691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5AEC388-2460-49FE-893A-A09C2D86BE92}
+	EndGlobalSection
+EndGlobal

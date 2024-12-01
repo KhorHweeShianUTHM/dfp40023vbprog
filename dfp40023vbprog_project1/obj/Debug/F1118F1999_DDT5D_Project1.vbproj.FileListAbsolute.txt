@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\bin\Debug\F1118F1999_DDT5D_Project1.exe.config
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\bin\Debug\F1118F1999_DDT5D_Project1.exe
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\bin\Debug\F1118F1999_DDT5D_Project1.pdb
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\bin\Debug\F1118F1999_DDT5D_Project1.xml
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\obj\Debug\F1118F1999_DDT5D_Project1.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\obj\Debug\F1118F1999_DDT5D_Project1.frm1.resources
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\obj\Debug\F1118F1999_DDT5D_Project1.Resources.resources
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\obj\Debug\F1118F1999_DDT5D_Project1.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\obj\Debug\F1118F1999_DDT5D_Project1.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\obj\Debug\F1118F1999_DDT5D_Project1.exe
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\obj\Debug\F1118F1999_DDT5D_Project1.xml
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\obj\Debug\F1118F1999_DDT5D_Project1.pdb
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\obj\Debug\F1118F1999_DDT5D_Project1.frm2.resources
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\obj\Debug\F1118F1999_DDT5D_Project1.frm3.resources
+C:\Users\User\source\repos\F1118F1999_DDT5D_Project1\obj\Debug\F1118F1999_DDT5D_Project1.frm4.resources
